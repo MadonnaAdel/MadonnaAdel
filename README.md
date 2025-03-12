@@ -1,4 +1,4 @@
-[<h1 align="center">Hi 👋, I'm Madonna</h1>
+<h1 align="center">Hi 👋, I'm Madonna</h1>
 <h3 align="center">A passionate frontend developer from</h3>
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/madonna-adel-](https://www.linkedin.com/in/madonna-adel-)
