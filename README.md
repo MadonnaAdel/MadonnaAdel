@@ -1,20 +1,22 @@
 # Hey there 👋, I'm [Madonna Adel]
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/madonna-adel-)
-[![GitHub followers](https://img.shields.io/github/followers/Haddad308?label=Follow&style=social)](https://github.com/madonnaAdel)
+[![GitHub followers](https://img.shields.io/github/followers/madonnaAdel?label=Follow&style=social)](https://github.com/madonnaAdel)
 
 ## Glad to see you here!
 
-I'm a passionate problem-solver. My drive comes from the challenge of finding innovative solutions, backed by a strong foundation in JavaScript, Node.js, MongoDB, React, Next.js, AWS, and more.
+I'm a passionate problem-solver who thrives on tackling challenges and crafting innovative solutions. With a strong foundation in JavaScript, Node.js, MongoDB, React, Next.js, and more, I’m dedicated to building efficient, scalable, and user-friendly applications.
 
-As an explorer of new technologies and an avid learner, I'm constantly pushing the boundaries of what's possible in tech. When I'm not coding, you'll find me diving into tech-related YouTube videos, always fueling my curiosity.
+I’m always exploring new technologies, pushing my limits, and staying ahead in the ever-evolving tech world. When I’m not coding, you’ll find me immersed in tech content, always eager to learn, experiment, and grow.
 
 
 
-![Madonna's GitHub stats](https://github-readme-stats.vercel.app/api?username=Madonna-Adel&show_icons=true&theme=radical)
+![GitHub stats](https://img.shields.io/github/stars/Madonna-Adel?style=social)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Madonna-Adel&layout=compact&theme=radical)
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/320984a9ca58b3c73274c9259ecf6de8.gif">
+<br/>
+<br/>
+<br/>
 
 ## 🛠️ Technologies & Tools
 
