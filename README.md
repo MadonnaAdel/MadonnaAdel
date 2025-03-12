@@ -11,13 +11,6 @@ I’m always exploring new technologies, pushing my limits, and staying ahead in
 
 
 
-![GitHub stats](https://img.shields.io/github/stars/Madonna-Adel?style=social)
-
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/320984a9ca58b3c73274c9259ecf6de8.gif">
-<br/>
-<br/>
-<br/>
-
 ## 🛠️ Technologies & Tools
 
 <div align="center">
@@ -43,7 +36,7 @@ I’m always exploring new technologies, pushing my limits, and staying ahead in
 
 <p align="center">
 
-<a href="https://linkedin.com/in/madonna-adel-"><img src="https://img.shields.io/badge/-Mohamed%20El%20Haddad-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:madonnadel0@gmail.com"><img src="https://img.shields.io/badge/-melhaddad308@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://linkedin.com/in/madonna-adel-"><img src="https://img.shields.io/badge/-Madonna%20Adel-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:madonnadel0@gmail.com"><img src="https://img.shields.io/badge/-madonnadel0@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 
 </p>
